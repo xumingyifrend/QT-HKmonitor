@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>monitor/camera_offline.png</file>
+        <file>monitor/camera_online.png</file>
+        <file>monitor/enlarge.png</file>
+        <file>monitor/enter.png</file>
+        <file>monitor/exitFullScreen.png</file>
+        <file>monitor/fullScreen.png</file>
+        <file>monitor/microphone.png</file>
+        <file>monitor/narrow.png</file>
+        <file>monitor/query.png</file>
+        <file>monitor/stop.png</file>
+        <file>monitor/stopMicrophone.png</file>
+        <file>monitor/fast.png</file>
+        <file>monitor/pause.png</file>
+        <file>monitor/play.png</file>
+        <file>monitor/slow.png</file>
+        <file>monitor/stop_preview.png</file>
+    </qresource>
+</RCC>
